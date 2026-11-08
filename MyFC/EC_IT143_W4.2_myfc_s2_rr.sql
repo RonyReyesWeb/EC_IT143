@@ -1,0 +1,3 @@
+-- Q: How many players are on each team?
+
+-- A: Let's count the players in MyFC.dbo.tblPlayerDim and group them by team, using tblTeamDim for the team code...
